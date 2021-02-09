@@ -8,9 +8,19 @@
 
 ### 📫 How to find me:
 
-*💡 Medium articles: https://medium.com/@sivakarsivarajah
-*🏢 LinkedIn: https://www.linkedin.com/in/sivakar-sivarajah-477877119/
-*🎯 Projects
+- 💡 Medium articles: https://medium.com/@sivakarsivarajah
+
+- 🏢 LinkedIn: https://www.linkedin.com/in/sivakar-sivarajah-477877119/
+
+
+### Feel free to Check out my latest articles:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sivakarsivarajah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sivakarsivarajah/0" alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sivakarsivarajah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sivakarsivarajah/0" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sivakarsivarajah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sivakarsivarajah/0" alt="Recent Article 3">
+  
 
 <!--
 **sivakar94/sivakar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
