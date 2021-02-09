@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi there. I'm Sivakar 👋
 
-Hi there. I'm Sivakar 👋
-*⚡ I love programming, data science, books and cooking!
-*🌱 I love learning and growing every day
-*🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
+- ⚡ I love programming, data science, books and cooking!
 
-📫 How to find me:
-*💡 Medium articles
-*🏢 LinkedIn
+- 🌱 I love learning and growing every day
+
+- 🌍 I am currently sharing a little bit of my knowledge to the world through my blog
+
+### 📫 How to find me:
+
+*💡 Medium articles: https://medium.com/@sivakarsivarajah
+*🏢 LinkedIn: https://www.linkedin.com/in/sivakar-sivarajah-477877119/
 *🎯 Projects
 
 <!--
