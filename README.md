@@ -1,6 +1,6 @@
 ### Hi there. I'm Sivakar 👋
 
-- ⚡ I love programming, data science, books and cooking!
+- ⚡ I love data science, reading and cooking!
 
 - 🌱 I love learning and growing every day
 
