@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hi there. I'm Sivakar 👋
+*⚡ I love programming, data science, books and cooking!
+*🌱 I love learning and growing every day
+*🌍 I am currently sharing a little bit of my knowledge to the world through my blogs
+
+📫 How to find me:
+*💡 Medium articles
+*🏢 LinkedIn
+*🎯 Projects
+
 <!--
 **sivakar94/sivakar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
