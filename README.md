@@ -1,6 +1,6 @@
 ### Hi there. I'm Sivakar 👋
 
-- ⚡ Pasionate about data science, reading and F1!
+- ⚡ Passionate about data science, learning new things and F1!
 
 - 🌱 Currently learning AWS and Apache Airflow
 
