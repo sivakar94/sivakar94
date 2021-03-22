@@ -1,10 +1,10 @@
 ### Hi there. I'm Sivakar 👋
 
-- ⚡ I love data science, reading and cooking!
+- ⚡ Pasionate about data science, reading and F1!
 
-- 🌱 I love learning and growing every day
+- 🌱 Currently learning AWS and Apache Airflow
 
-- 🌍 I am currently sharing a little bit of my knowledge to the world through my blog
+- 🌍 Sharing a little bit of my knowledge to the world through my blog
 
 ### 📫 How to find me:
 
