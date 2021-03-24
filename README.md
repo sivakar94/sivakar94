@@ -1,4 +1,4 @@
-### Hi there. I'm Sivakar 👋
+### Hi there. I'm Siva 👋
 
 - ⚡ Passionate about data science, learning new things and F1!
 
