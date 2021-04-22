@@ -2,7 +2,7 @@
 
 - ⚡ Passionate about data science, learning new things and F1!
 
-- 🌱 Currently learning AWS and Apache Airflow
+- 🌱 Currently learning AWS and Spark
 
 - 🌍 Sharing a little bit of my knowledge to the world through my blog
 
