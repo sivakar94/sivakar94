@@ -1,10 +1,25 @@
 ### Hi there. I'm Siva 👋
 
-- ⚡ Passionate about data science, learning new things and F1!
+- A recent master's graduate with a major in Artificial Intelligence with a background in Python, Machine learning, and Deep Learning. I am passionate about Data science and building scalable models. Self-motivated, eager to learn, can work in a fast-paced environment, and effectively communicate with other people.
 
-- 🌱 Currently learning AWS and Spark
+- 🔭 I recently worked on data engineering projects using Spark, Airflow, and AWS Redshift infrastructure that can be leveraged to common use cases in data science such as moving data efficiently into the cloud, performing ETL operations, quality checks, and making data readily available for data scientists and Business Analysts. 
 
-- 🌍 Sharing a little bit of my knowledge to the world through my blog
+- 🌱 The most interesting thing about me is if I am given a project, I put my full initiative into it. Even if I don't know the answer to a question/problem, I work really hard to find the solution to the problem.
+
+
+### Technical Skills
+
+Programming Languages:
+> Python, Java, R, HTML, CSS
+
+Data Engineering:
+> SQL, PostgreSQL, Cassandra, Spark, Apache Airflow, ETL, Data modeling, Redshift
+
+Data science & Cloud:
+> AWS, Docker, Git, Flask, Linux OS, unit testing, Pipenv
+
+Machine Learning:
+> TensorFlow, Pandas, Scikit-learn, NumPy, Matplotlib
 
 ### 📫 How to find me:
 
