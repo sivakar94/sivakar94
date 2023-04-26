@@ -1,25 +1,30 @@
-### Hi there. I'm Siva 👋
+### Hi there. I'm Siva
 
-- A recent master's graduate with a major in Artificial Intelligence with a background in Python, Machine learning, and Deep Learning. I am passionate about Data science and building scalable models. Self-motivated, eager to learn, can work in a fast-paced environment, and effectively communicate with other people.
+Data Engineer & Data Scientist
 
-- 🔭 I recently worked on data engineering projects using Spark, Airflow, and AWS Redshift infrastructure that can be leveraged to common use cases in data science such as moving data efficiently into the cloud, performing ETL operations, quality checks, and making data readily available for data scientists and Business Analysts. 
+Love solving data problems , generating insights and creating cool visualisations for end users.
 
-- 🌱 The most interesting thing about me is if I am given a project, I put my full initiative into it. Even if I don't know the answer to a question/problem, I work really hard to find the solution to the problem.
+Worked in various roles for organisations: 
 
+Data Engineer - I was responsible for supporting dev teams and a live production environment with telemetry data feeding to thousands of end users. I led data models deployments following CI/CD approach and supported the resolution of a backlog of bug fixes.
 
-### Technical Skills
+Data analyst - Designed and managed end-to-end scalable dashboards in PowerBi with data coming from data pipelines pulling data from various datasources, transformed it using DBT and all orchestrated by DataOps.live & Snowflake.
+
+Data Scientist - Designed and deployed an end-to-end Anomaly Detection model in Snowflake for detecting anomalies in satellite telemetry data. Created the ML workload in Python and Snowpark, visualised the results in Power BI in a dashboard and operationalised it using Snowflake Tasks and Streams.
+
+SKILLS
 
 Programming Languages:
-> Python, Java, R, HTML, CSS
+> SQL,Python, Java, R
 
 Data Engineering:
-> SQL, PostgreSQL, Cassandra, Spark, Apache Airflow, ETL, Data modeling, Redshift
+>  Snowflake, PySpark,Airflow, ETL, Data warehousing, DataOps, CI/CD, Snowpark
 
-Data science & Cloud:
-> AWS, Docker, Git, Flask, Linux OS, unit testing, Pipenv
+Data & Cloud:
+> AWS, DBT, Docker, Git, PowerBI
 
-Machine Learning:
-> TensorFlow, Pandas, Scikit-learn, NumPy, Matplotlib
+Machine Learning 
+> TensorFlow, Pandas, Scikit-learn, NumPy , HEX
 
 ### 📫 How to find me:
 
